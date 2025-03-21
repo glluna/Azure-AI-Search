@@ -63,3 +63,13 @@ Limitações de Plano: Algumas funcionalidades avançadas podem exigir um plano 
 ![alt text](Seattle-2.png)
 ![alt text](Services-1.png)
 
+# Conclusão
+
+Achei interessante a flexibilidade na questão de buscas, é possivel refinar bastante para puxas os dados que deseja.
+
+Achei a automatização bem versátil no sentido de conseguir colocar todos dados em um container e depois puxar de uma vez para o sistema de busca para realizar a filtragem.
+
+Acredito que os casos de usos sejam empresas focadas em atendimento ao cliente e E-commerces, ambas conseguem desfrutar essas consultas e filtragens para automatizar ao seu desejo.
+
+De bônus aprendi a editar o read.me pelo vscode e só depois subir para o github, antigamente editava apenas no github.
+
