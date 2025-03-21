@@ -54,3 +54,12 @@ Uso de Analisadores (como standard-lucene) pode aprimorar a precisão da busca.
 Limitações de Plano: Algumas funcionalidades avançadas podem exigir um plano Standard ou Premium do Azure AI Search.
 
 # Exemplos de Utilização
+
+![alt text](Armazenamento-1.png)
+![alt text](Chicago-1.png)
+![alt text](Crowded-1.png)
+![alt text](Friendly-2.png)
+![alt text](<Los Angeles-1.png>)
+![alt text](Seattle-2.png)
+![alt text](Services-1.png)
+
